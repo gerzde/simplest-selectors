@@ -1,0 +1,15 @@
+.container {
+    border: green solid 1px;
+    width: 250px;
+}
+
+#b325 {
+    border: green solid 1px;
+    width: 250px;
+}
+
+p {
+    color: blue;
+    background: yellow;
+    width: 250px;
+}
